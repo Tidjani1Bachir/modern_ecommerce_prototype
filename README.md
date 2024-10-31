@@ -1,27 +1,278 @@
 
-Modern Full Stack ECommerce Application with Stripe & Sanity
-![eCommerce](https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png)
+# Modern Full Stack ECommerce Application 
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+## Prototype of a Fully Responsive Modern Full-Stack E-commerce Application for Various Products
 
-**Build and Deploy a fully responsive Modern Full Stack Ecommerce application with Payments functionality**. With Modern design, animations, the ability to add and edit products on the go using a CMS, all advanced cart functionalities, and most importantly the complete integration with Stripe so that you can cover REAL payments. This is the best e-commerce website project that you can currently find on YouTube!
+<div align="center">
+  <br />
+        <a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_12_46_36.png" alt="UI Showcase">
+        </a>
+  <br />
 
-In this video, you'll learn:
-- Advanced React Best Practices such as
-    - Folder and file structure, hooks and refs
-- Advanced State Management of the entire application using React Context API
+ 
+
+## <a name="introduction">🤖 Introduction</a>
+
+- 
 - Next.js Best Practices such as
-    - File-based routing, Data fetching that allows server-side rendering and static generation which makes your websites incredibly optimized (show getServerSideProps, getStaticPaths, getStaticProps), and you’ll also learn how to use Next.js as a backend endpoint.
-- You’ll learn how to integrate Stripe to manage payments, products, shipping rates, and the entire checkout process
-- And most importantly you’ll learn how to manage the entire content of your app using Sanity. Sanity is the unified content platform that’ll make the making of our entire app possible. <show sanity desk>
-- Through Sanity, you or your clients will be able to change the store’s homepage and more importantly, the details of all the products in the store, instantly and on the go!
-- Sanity allows us to focus on developing the application without having to worry about the content, file storage, and databases. They’ll cover the dirty work for us and allow us to build scalable and modern e-commerce web applications extremely easily.
 
-![image](https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png)
-![image](https://user-images.githubusercontent.com/70088342/160780206-9cfe7c0a-3d8e-4a20-a055-b12efebe6c30.png)
-![image](https://user-images.githubusercontent.com/70088342/160780265-692d37ac-7209-4d53-957a-e94b37d123c0.png)
-![image](https://user-images.githubusercontent.com/70088342/160780381-7c947640-422e-4729-abae-21911e9bc716.png)
-![image](https://user-images.githubusercontent.com/70088342/160780549-111ed048-cd4b-4740-b2fd-2c6fc3520c52.png)
-![image](https://user-images.githubusercontent.com/70088342/160780884-22d6025e-9b7d-4493-8136-b3dfbf00a32f.png)
-# Ecommerce_modern
-# modern_ecommerce_prototype
+## <a name="tech-stack">⚙️ Tech Stack</a>
+
+
+- React.js
+- Tailwind CSS
+- Next js
+- Type Script
+  
+
+## <a name="features">🔋 Features</a>
+
+👉 Advanced React Best Practices such as Folder and file structure, hooks and refs
+
+👉 Advanced State Management of the entire application using React Context API
+
+👉 a custom succes payement component
+
+👉 animated page for products with a dynamic on hover animation
+
+👉 Advanced cart functionality, including automatic price calculations for all products in the cart and the ability to add multiple quantities of the same product. 
+
+
+
+## <a name="quick-start">⏰ Quick Start</a>
+
+Follow these steps to set up the project locally on your machine.
+
+**Prerequisites**
+
+Make sure you have the following installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Project**
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
+**the UI Of The Application**
+
+<br />
+<br />
+<br />
+<br />
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_12_47_05.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_12_47_40.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_12_47_53.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_12_48_12.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_12_47_05.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_03_15.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_03_39.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_03_54.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_04_10.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_04_29.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_04_48.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_05_03.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_05_38.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_05_58.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_06_10.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_06_21.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_06_31.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_06_42.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_06_58.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+
+
+** ####################################################################################### **
+
+
+
+
+
+
+
+
+
+
+
