@@ -124,16 +124,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 
 <a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_30_53.png" alt="UI Showcase">
-</a>
-
-<br />
-<br />
-<br />
-<br />
-
-<a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_03_39.png" alt="UI Showcase">
+      <img src="https://github.com/Tidjani1Bachir/modern_ecommerce_prototype/blob/main/public/ui/Screenshot_2024-10-31_13_30_53.png" alt="UI Showcase">
 </a>
 
 <br />
@@ -143,13 +134,15 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 
 <a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_31_06.png" alt="UI Showcase">
+      <img src="https://github.com/Tidjani1Bachir/modern_ecommerce_prototype/blob/main/public/ui/Screenshot_2024-10-31_13_31_06.png" alt="UI Showcase">
 </a>
 
 <br />
 <br />
 <br />
 <br />
+
+
 
 
 
