@@ -103,6 +103,17 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 <br />
 <br />
 
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/modern_ecommerce_prototype/blob/main/public/ui/Screenshot_2024-10-31_13_28_50.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
 <a href="#" target="_blank">
       <img src="https://github.com/Tidjani1Bachir/modern_ecommerce_prototype/blob/main/public/ui/Screenshot_2024-10-31_13_29_46.png" alt="UI Showcase">
 </a>
